@@ -43,6 +43,14 @@ Tests unitaires :
 
 <img width="1772" height="467" alt="test unitaire" src="https://github.com/user-attachments/assets/2b48b65d-02c4-41c2-8435-7071f3dd27c7" />
 
+Swagger :
+
+
+
+
+
+
+https://github.com/user-attachments/assets/7ef71909-76c3-4b0f-897d-2b35b0a31b53
 
 
 
